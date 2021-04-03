@@ -1,5 +1,6 @@
 .para{
     background-color: rgba(0, 0, 0);
-    color:#fff;
-    #opacity: 0.5;
+    color:rgb(238, 227, 227);
+    /* #opacity: 0.8; */
+    font-family:cursive,sans-serif;
 }
